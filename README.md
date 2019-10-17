@@ -1,2 +1,0 @@
-# Mogo
-qwert
